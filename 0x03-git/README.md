@@ -1,1 +1,1 @@
-I'm glad to be learning about git
+shell navigation and bash scripting
